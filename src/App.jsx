@@ -10,10 +10,10 @@ function App() {
       <main>
       <CoreConcepts/>
       <Examples/>
+      
       </main>
     </div>
   );
 }
-
 export default App;
 
